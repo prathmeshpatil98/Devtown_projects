@@ -1,2 +1,2 @@
 # Devtown_projects
-data science training all projects
+data science Industrial training programmeall projects
